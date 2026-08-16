@@ -62,7 +62,6 @@ bindsym $mod+Return exec kitty
 bindsym $mod+w exec firefox
 bindsym $mod+e exec thunar
 
-bindsym $mod+Shift+s exec --no-startup-id flameshot gui --path ~/Screenshots --clipboard
 #bindsym Print exec --no-startup-id flameshot full --path ~/tmp.png
 
 # kill focused window
