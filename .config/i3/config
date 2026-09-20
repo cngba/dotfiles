@@ -205,7 +205,7 @@ bar {
 #         SERVICES
 # ----------------------
 exec polybar --reload
-exec_always feh --bg-scale ~/.wallpapers/frieren.jpg
+exec_always feh --bg-scale ~/.wallpapers/nightsky.jpg
 exec_always picom -f -I 0.080 -O 0.080 --vsync
 
 # Disable window borders
